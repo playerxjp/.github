@@ -5,9 +5,9 @@
 憧れを抱いた人が憧れを越えていく世界を実現する
 
 ## Who we are
-we are the passonated creators for all the people.
+僕らは、全ての人々を先端テクノロジーでエンパワーメントするクリエイティブチームです。
 
 ## Soluiton
-AI empowered beauty platform
+AI empowered beauty platform(building as PoC)
 
 2023 Asovi | beauty platform
