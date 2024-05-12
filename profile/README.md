@@ -11,4 +11,4 @@
 ## Soluiton
 AI empowered beauty platform(building as PoC)
 
-2024 Asovi | beauty platform
+2024 Asovi by PlayerX
